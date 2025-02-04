@@ -4,3 +4,9 @@ pros: It makes teams more resilient to scope changes in the project
       It breaks down a project into smaller, several stages
 cons: There can be a lack of documentation because it is not as important
       There is less predictability
+
+
+roles / responsibilties
+
+scrum master role: All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
+product owner: Sets direction for the team, handles release management and stakeholder management
