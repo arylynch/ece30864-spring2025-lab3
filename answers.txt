@@ -15,3 +15,9 @@ product owner: Sets direction for the team, handles release management and stake
 Sprint Planning Meeting: Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint
 Daily scrum/standup meeting: Team members discuss work completed, work plan for the day and any blockers
 Sprint Retrospective Meeting: Occurs at the end of the sprint, Discuss work complete and move incomplete work to backlog
+
+issue types
+Epic: Captures a large body of work that can be broken down into several smaller stories
+Story: A software system requirement that is expressed in a few short sentences
+Bug: An identified error or defect within a software product that negatively impacts its functionality, performance, or user experience
+Task: A unit of work the team performs to deliver a backlog item that is estimated in hours. Tasks are assigned to stories to track their progress.
