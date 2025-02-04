@@ -1,1 +1,6 @@
+pros and cons of agile 
 
+pros: It makes teams more resilient to scope changes in the project
+      It breaks down a project into smaller, several stages
+cons: There can be a lack of documentation because it is not as important
+      There is less predictability
