@@ -10,3 +10,8 @@ roles / responsibilties
 
 scrum master role: All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
 product owner: Sets direction for the team, handles release management and stakeholder management
+
+3 types of meetings
+Sprint Planning Meeting: Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint
+Daily scrum/standup meeting: Team members discuss work completed, work plan for the day and any blockers
+Sprint Retrospective Meeting: Occurs at the end of the sprint, Discuss work complete and move incomplete work to backlog
